@@ -1,2 +1,2 @@
 # RedRivals
-RA2Like Mobile Game
+Turn Based Strategy Mobile Game
